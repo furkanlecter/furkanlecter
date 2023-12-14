@@ -1,5 +1,4 @@
 
- [![MasterHead](https://api1g.iloveimg.com/v1/download/7rA5A9f32kbd8k3pbAp5pysgjb7jcyw3jA3h8by189gkhjqm2vAzcxt3fb4bfw42wysg9lr77scqjnq6djv5x545vw7w1b2z8yzkx661r2z08knc802txznfvh74fnk2405ck63wbxht1gw60dnrwlmx2bp6434AwqpzwnA7bmlc9mwmlvhq)
 <h1 align="center">Hi 👋, I'm Nihat Furkan Çakmakcı</h1>
 <h3 align="center">Ben ISUBU Teknoloji Fakültesi Bilgisayar Mühendisliği 1. Sınıf öğrencisiyim. Güncel teknoloji ve programlama dillerini takip etmek ve projeler oluşturma için bu sayfayı oluşturdum.</h3>
 
